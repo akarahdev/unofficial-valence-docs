@@ -1,0 +1,6 @@
+[book]
+authors = ["akarahdev"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Valence Unofficial Documentation"
